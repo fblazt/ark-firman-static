@@ -1,0 +1,38 @@
+html, body {
+	background: linear-gradient(0deg, rgba(26, 25, 46, 0.75), rgba(26, 25, 46, 0.75)), url(../img/AdobeStock_310153350_Preview.jpeg) no-repeat fixed center;
+	background-size: cover;
+	height: 100%;
+}
+a {
+	padding-left: 50px;
+	margin-top: 50px;
+	color: #F2B57B;
+}
+a:hover {
+	color: rgba(215, 85, 15, 0.71);
+}
+h1 {
+	font-family: Pacifico;
+	font-size: 55px;
+	color: #F2B57B;
+}
+button {
+	font-family: Pacifico;
+	font-size: 12px !important;
+	padding: 15px 0 15px !important;
+	color: white !important;
+	background-color: #F2B57B !important;
+	border-color: #F2B57B !important;
+	border-radius: 8px !important;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important
+}
+button:hover {
+	background-color: rgba(215, 85, 15, 0.71) !important;
+}
+.form-control {
+	border-radius: 10px;
+	font-family: Roboto;
+	font-size: 12px;
+	height: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
